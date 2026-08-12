@@ -5,7 +5,7 @@
   <div class="hero">
     <h1 class="hero__title">Ethan Hogge</h1>
     <p class="hero__subtitle">Full stack developer with three years building production software, from Navy training systems to a Vue 2 to Vue 3 migration.</p>
-    <img src="/src/assets/ethan-photo.jpg" alt="Ethan image" />
+    <img class="hero__image" src="/src/assets/ethan-photo.jpg" alt="Ethan image" />
     <a class="hero__button" href='mailto:ethanhogge952@gmail.com'>Email Me</a>
     <p class="hero__email">ethanhogge952@gmail.com</p>
     <a class="hero__button" target="_blank" href='https://www.linkedin.com/in/ethan-hogge-a58070138/'>LinkedIn</a>

@@ -130,3 +130,11 @@ p {
   max-width: 600px;
   text-align: center;
 }
+.hero__image {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  clip-path: circle();
+  object-fit: cover;
+  margin: 16px 0;
+}
