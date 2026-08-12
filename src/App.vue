@@ -9,7 +9,7 @@
     <a class="hero__button" href='mailto:ethanhogge952@gmail.com'>Email Me</a>
     <a class="hero__button" target="_blank" href='https://www.linkedin.com/in/ethan-hogge-a58070138/'>LinkedIn</a>
     <a class="hero__button" target="_blank" href='https://github.com/shuvll'>GitHub</a>
-    <a class="hero__button" target="_blank" href='/public/ethan-hogge-resume.pdf'>Resume</a>
+    <a class="hero__button" target="_blank" href='/ethan-hogge-resume.pdf'>Resume</a>
     <a class="hero__button" href=''>View my work</a>
   </div>
 </template>
